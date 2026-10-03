@@ -16,6 +16,7 @@ Foi aí que decidi criar uma interface simples e eficiente baseada nele. E assim
 * Sem anúncios ou taxas: Totalmente gratuito para uso pessoal.
 * Interface moderna: Desenvolvida em CustomTkinter para uma experiência de usuário limpa e fluida.
 * Atualizações automatizadas: O programa gerencia o núcleo de extração de forma inteligente.
+* Fila de downloads: Adicione vários links a uma fila de downloads e deixe o aplicativo processá-los sequencialmente, sem complicações.
 
 
 **Como instalar o Getpy?**
