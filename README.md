@@ -23,7 +23,7 @@ That’s when I decided to create a simple, efficient interface based on it. And
 
 1- Go to the following link: https://github.com/SamuuGit/Getpy-Downloader/releases/tag/v2.3.0
 
-2- Download the latest official installer (Getpy_Setup_vx.x.x.exe).
+2- Download the latest official installer (Getpy.Installer.exe).
 
 3- Run the installer on your Windows computer to set up the program automatically.
 #
