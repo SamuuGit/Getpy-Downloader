@@ -21,7 +21,8 @@ Foi aí que decidi criar uma interface simples e eficiente baseada nele. E assim
 
 **Como instalar o Getpy?**
 
-1- Vá até a aba Releases deste repositório.
+1- Entre no seguinte link:
+https://github.com/SamuuGit/Getpy-Downloader/releases/tag/v2.3.0
 
 2- Baixe o instalador oficial mais recente (Getpy_Setup_vx.x.x.exe).
 
