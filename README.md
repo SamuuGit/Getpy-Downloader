@@ -1,4 +1,4 @@
-> **Read this in other languages:** [Português (BR)](README_pt.md) | [English](README.md)
+> **Read this in other languages:** [Português (BR)](READMEpt.md) | [English](README.md)
 # Getpy Downloader
 
 **The story behind the project:**
