@@ -16,6 +16,7 @@ That’s when I decided to create a simple, efficient interface based on it. And
 * No ads or fees: Completely free for personal use.
 * Modern interface: Built with CustomTkinter for a clean, smooth user experience.
 * Automated updates: The program intelligently manages the extraction core.
+* Queue Downloads: Add multiple links to a download queue and let the app process them sequentially without hassle.
 
 
 **How ​​to install Getpy?**
