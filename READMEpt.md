@@ -24,7 +24,7 @@ Foi aí que decidi criar uma interface simples e eficiente baseada nele. E assim
 1- Entre no seguinte link:
 https://github.com/SamuuGit/Getpy-Downloader/releases/tag/v2.3.0
 
-2- Baixe o instalador oficial mais recente (Getpy_Setup_vx.x.x.exe).
+2- Baixe o instalador oficial mais recente (Getpy.Installer.exe).
 
 3- Execute o instalador em seu computador Windows para configurar o programa automaticamente.
 #
