@@ -7,7 +7,7 @@
 Meu pai queria que eu baixasse algumas músicas para que pudesse ouvir em seu carro.
 Eu não queria utilizar programas e sites duvidosos com propagandas em excesso ou planps exorbitantes, depois de
 muitas pesquisas acabei descobrindo o yt-dlp. Ele é extremamente poderoso, mas complexo demais pro uso cotidiano.
-Foi aí que decidi criar uma interface simples e eficiente baseada nele. E assim nasceu o Getpy!
+Foi aí que decidi criar uma interface simples e eficiente baseada nele, utilizando ia. E assim nasceu o Getpy!
 
 
 **Recursos:**
