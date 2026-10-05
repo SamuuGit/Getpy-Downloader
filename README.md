@@ -7,7 +7,7 @@
 My father wanted me to download some music for him to listen to in his car.
 I didn't want to use sketchy programs or websites filled with excessive ads or exorbitant subscription plans. After
 doing some research, I discovered yt-dlp. It is extremely powerful but too complex for everyday use.
-That’s when I decided to create a simple, efficient interface based on it. And so, Getpy was born!
+That’s when I decided to create a simple, efficient interface based on it, using ai. And so, Getpy was born!
 
 
 **Features:**
